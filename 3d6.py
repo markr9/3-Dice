@@ -29,5 +29,6 @@ while p<len(tot):
     
 plt.plot(x,prob)
 plt.grid()
+plt.show()
 print('Value\t',x,'\nChance\t',prob)
 print('Sum\t',len(tot))
